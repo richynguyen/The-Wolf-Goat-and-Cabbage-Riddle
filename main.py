@@ -1,10 +1,3 @@
-#Homework 4
-#Quang Nguyen
-#PSID: 0659564
-print("Homework 4")
-print("Quang Nguyen")
-print("0659564\n")
-
 import random
 East=['C','F','G','W']
 West=[]
